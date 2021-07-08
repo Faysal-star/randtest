@@ -1,0 +1,9 @@
+.hi{
+    height: 100px;
+    width: 100%;
+    border: 2px solid green;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 10px;
+    margin: 5px;
+}
